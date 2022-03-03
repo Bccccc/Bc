@@ -12,7 +12,6 @@
     🟢 Status: Supported
 
     🔴 Status: Discontinued
-
-    
+   
 ## 💬 Contact me
     Discord: Bc#8233
