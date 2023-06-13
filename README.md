@@ -1,7 +1,6 @@
 ## 👁‍🗨 About me
 - ‍💻 Computer Science major in Cyber security/Information security.
 - ⚡ Cyber Security Engineer.
-- 🚘 2022 Audi RS3
 
 ## 🔧 Tech & Programming:
   - C++, C, C#, Python
@@ -14,4 +13,4 @@
     🔴 Status: Discontinued
    
 ## 💬 Contact me
-    Discord: Bc#8233
+Telegram: https://t.me/Bc_404
